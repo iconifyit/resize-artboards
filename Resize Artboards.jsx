@@ -15,7 +15,11 @@ if (app.documents.length > 0) {
     var idoc  = app.activeDocument;
     var title = "Resize All Artboards";
 
-    OPTIONS.size = Window.prompt ("Enter New Artboard size in pixels as WxH ( Example: 250x300 )", 32, title);
+    OPTIONS.size = Window.prompt(
+        "Enter New Artboard size in pixels as WxH ( Example: 250x300 )",
+        32,
+        title
+    );
 
     if (OPTIONS.size.indexOf('x') != -1) {
         var bits = OPTIONS.size.split('x');
