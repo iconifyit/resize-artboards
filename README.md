@@ -3,12 +3,11 @@
 Resize all artboards in an Adobe Illustrator document.
 
 ***
+#### Support Open Source Development
 
-## Support Open Source Developers
+Donations help open source developers, who are often self-employed freelancers, continue to create free resources. You can donate to this project using the button below.
 
-Donations open source developers, who are often self-employed freelancers, continue to create free resources. You can donate to this project using the button below. Every bit helps.
-
-You can donate to this project via [PayPal - https://paypal.me/iconify/5](https://paypal.me/iconify/5).
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SZQVVSQDZS75A)
 
 ***
 
